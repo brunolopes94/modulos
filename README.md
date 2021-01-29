@@ -7,10 +7,10 @@ Aula de modulos DH
   Essa função imprime uma saudação.
 Como usar?
 ```shel
-npm install dh-modulo-allan
+npm install dh-modulo-bruno
 ```
 ```js
-const meuModulo = require('dh-modulo-allan')
+const meuModulo = require('dh-modulo-bruno')
 const resultado = meuModulo.ola('Meu nome')
-console.log(resultado) // Olá Meu nome, você está usando o pacote criado by Allan Barbosa
+console.log(resultado) // Olá Meu nome, você está usando o pacote criado by Bruno
 ```
